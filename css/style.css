@@ -1,0 +1,57 @@
+*{
+    margin: 0;
+    padding: 0;
+    outline: 0;
+}
+a{
+    text-decoration: none;
+}
+.section-heading{
+    padding-bottom: 40px;
+}
+.card{
+    border: none;
+    box-shadow: 5px 5px 10px darkgray;
+
+}
+.card img{
+    padding: 4%;
+}
+
+
+
+/* navbar part start  */
+.navbar-brand img{
+    width: 150px;
+}
+#menubar{
+    background-color: #F0FFF0;
+}
+
+/* Banner part Start */
+#banner{
+    background: #F0FFF0;
+}
+
+/* Counter Part Start */
+.count-1{
+    background-color: #F8FFFB;
+    padding: 10%;
+    transition: 0.3s;
+}
+.count-1 img{
+    width: 100px;
+}
+.count-1:hover{
+    box-shadow: 5px 5px 10px darkgray;
+}
+
+/* Testimonial Part Start */
+.testimonial-img img{
+    width: 150px;
+    float: right;
+}
+#important-link{
+    background: #282531;
+    color: #fff;
+}
